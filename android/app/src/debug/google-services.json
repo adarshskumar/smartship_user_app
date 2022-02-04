@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "516473067629",
+    "firebase_url": "https://the-smart-ship-dev.firebaseio.com",
+    "project_id": "the-smart-ship-dev",
+    "storage_bucket": "the-smart-ship-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516473067629:android:646a15e3d12e46f3798764",
+        "android_client_info": {
+          "package_name": "com.smartshipemployee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516473067629-28d9s657jub34qadu3oob5q9rf9ig62m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartshipemployee",
+            "certificate_hash": "3fdf85b0361c9d69d3d3f8c8e8dec28ba9eed30b"
+          }
+        },
+        {
+          "client_id": "516473067629-32pafb6cm0i01svkbu9inhvlvi03fc8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartshipemployee",
+            "certificate_hash": "1a95964fa657d19301ee7e8551c9d8a9689b4442"
+          }
+        },
+        {
+          "client_id": "516473067629-cp8to55eq3f74rb5cdp5up65mhcar35v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartshipemployee",
+            "certificate_hash": "6e541a35b15734c41610df3b4982ae2c60df4526"
+          }
+        },
+        {
+          "client_id": "516473067629-885e41georkur87elukf4oar1jh89tuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTwVG8abT6FHmeYl3l-_NS6cPajeQ44BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516473067629-885e41georkur87elukf4oar1jh89tuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516473067629:android:b4f78b7890e5eec6798764",
+        "android_client_info": {
+          "package_name": "com.thesmartship.ship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516473067629-7mj0m8vhiorbdi7mblp8iasb7508rvvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesmartship.ship",
+            "certificate_hash": "6e541a35b15734c41610df3b4982ae2c60df4526"
+          }
+        },
+        {
+          "client_id": "516473067629-885e41georkur87elukf4oar1jh89tuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTwVG8abT6FHmeYl3l-_NS6cPajeQ44BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516473067629-885e41georkur87elukf4oar1jh89tuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
